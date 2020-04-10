@@ -1,0 +1,38 @@
+*{
+	margin: 2px;
+	padding: 0;
+	background: lightblue;
+}
+.heading h1{
+	color: red;
+	display: center;
+}
+.aboutus h2{
+	color: red;
+	display: inline-block;
+}
+.logo2 img{
+	width: 70%;
+	height: 70%;
+}
+.aboutus h2{
+	width: 150px;
+	height: 50px;
+}
+.aboutus2 h3{
+	width: 150px;
+	height: 50px;
+	display: inline-block;
+	color: red;
+}
+.aboutus3 h4{
+	width: 150px;
+	height: 50px;
+	display: inline-block;
+	color: red;
+}
+.aboutus4 h5{
+	width: 200px;
+	height: 0px;
+	display: inline-block;
+	color: red;
